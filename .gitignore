@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Dataset images
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated models
+models/*.pkl
+models/*.joblib
+
+# Editor files
+.vscode/
