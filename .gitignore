@@ -6,7 +6,7 @@ data/
 
 # Python cache
 __pycache__/
-*.pyc
+*.py[cod]
 
 # Jupyter
 .ipynb_checkpoints/
@@ -17,3 +17,6 @@ models/*.joblib
 
 # Environment files
 .env
+
+# Editor
+.vscode/
